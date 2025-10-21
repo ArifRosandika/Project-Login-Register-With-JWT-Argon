@@ -129,23 +129,23 @@ curl -H "Authorization: Bearer <your_jwt_token>" http://localhost:8080/api/user/
 
 🗂️ Project Structure
 
-Project-Login-Register-With-JWT-Argon/
-├── backend/
-│   ├── main.go
-│   ├── controllers/
-│   ├── middleware/
-│   ├── models/
-│   ├── routes
-│   └── database/
-└── frontend/
-    ├── src/
-    │   ├── components/
-    │   ├── login/
-    │   ├── register/
-    │   ├── dashboard/
-    │   └── App.tsx
-    ├── package.json
-    └── tsconfig.json
+📦 Project-Login-Register-With-JWT-Argon/
+├── 📁 backend/
+│   ├── 📄 main.go
+│   ├── 📁 controllers/
+│   ├── 📁 middleware/
+│   ├── 📁 models/
+│   ├── 📁 routes/
+│   └── 📁 database/
+└── 📁 frontend/
+    ├── 📁 src/
+    │   ├── 📁 components/
+    │   ├── 📁 login/
+    │   ├── 📁 register/
+    │   ├── 📁 dashboard/
+    │   └── 📄 App.tsx
+    ├── 📄 package.json
+    └── 📄 tsconfig.json
 
 
 ---
